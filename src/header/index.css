@@ -1,0 +1,10 @@
+.Column {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-around;
+}
+
+p {
+  color: red;
+  font-size: 14;
+}
